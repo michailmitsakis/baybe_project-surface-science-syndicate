@@ -1,4 +1,4 @@
-# BayBE One more Time - Exploring Corrosion Inhibitors for Materials Design 
+# BayBE One more Time - Exploring Corrosion Inhibitors for Materials Design (Acceleration Consortium Bayesian Optimization Hackathon 2024)
 
 [![](https://github.com/AC-BO-Hackathon/project-surface-science-syndicate/blob/main/img/project-cover.png)](https://youtu.be/kIRxGdwmLSY?si=BVYsl7kGDRsUhewH)
 
